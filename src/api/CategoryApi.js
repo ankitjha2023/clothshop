@@ -1,6 +1,6 @@
 const categories = [
     {
-        imgSrc:"https://onlineclothshop.netlify.app/static/media/shirt.92f349a5ae95ef71260f.jpg",
+        imgSrc:"/mytshirt.jpg",
         name:"Men's Clothing",
         para:"Explore our range of men's clothing including t-shirts, shirts, pants, and more",
 
@@ -12,7 +12,7 @@ const categories = [
 
     },
     {
-        imgSrc:"https://onlineclothshop.netlify.app/static/media/mytshirt.6bce58c9fb3eebee13ad.jpg",
+        imgSrc:"/shirt.jpg",
         name:"Kid's Clothing",
         para:"Explore our range of kids's clothing including t-shirts, shirts, pants, and more",
 
